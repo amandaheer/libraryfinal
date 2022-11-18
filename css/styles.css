@@ -1,0 +1,196 @@
+body {
+    /* font family */
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Raleway', sans-serif;
+    background-color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.navcolor {
+    background-color: #ffffff;
+}
+
+.navcolor a {
+    color: #5A8325;
+}
+
+
+.pt-2 {
+    text-align: center;
+    background-color: white;
+}
+
+.emailbox {
+    background-color: white;
+    width: 100%;
+}
+
+.footerbox {
+    background-color: #365D7D;
+    padding-top: 15px;
+}
+
+.sendbutton {
+    background-color: #5A8325;
+}
+
+.icon {
+    color: #ffffff;
+}
+
+.w-100 {}
+
+.slide {
+    display: block;
+    width: 50% !important;
+    margin: 0px auto;
+
+}
+
+.upcomingevents {
+    text-align: center;
+    padding-top: 50px;
+
+    color: #5A8325;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+.leftborder {
+    border-right: 1px solid white;
+}
+
+.rightborder {
+    border-left: 1px solid white;
+}
+
+.logo-position {
+    padding-left: 50px;
+}
+
+/* This is the cards */
+
+
+.text-center {
+    display: flex;
+    justify-content: center;
+}
+
+.card-title {
+    color: #5A8325;
+    font-weight: bold;
+}
+
+.content {
+    padding: 50px;
+}
+
+.sectionHeading {
+    text-align: center;
+}
+
+.showsNear {
+    padding: 0px 30px 30px 30px;
+}
+
+.cardContainer {
+    text-align: center;
+}
+
+.cardcontainer {
+    margin: 50px 50px;
+}
+
+/* this is the card button */
+.cardbutton {
+    background-color: #365D7D;
+    border: 2px solid #365D7D;
+}
+
+.cardbutton:hover {
+    background-color: #5A8325;
+    border: 2px solid #ffffff;
+
+}
+
+.cardcontainer {
+    margin: 70px;
+}
+
+/* This is the end of the cards */
+
+
+.join {
+    text-align: center;
+    font-weight: 900;
+    color: #5A8325;
+    font-size: larger;
+    background-color: #ffffff;
+}
+
+.subscribe {
+    background-color: #365D7D;
+    border: #365D7D;
+}
+
+.subscribe:hover {
+    background-color: #5A8325;
+}
+
+
+/* this is the books */
+
+.booksimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-bottom: 50px;
+}
+
+
+/* This is the footer */
+
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.centerisbest {
+    text-align: center;
+
+
+}
+
+.titles {
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.paragraph {
+    color: white;
+}
+
+.phonecolor {
+    color: white;
+
+}
+
+.greenfooter {
+    padding-top: 50px;
+    border-right: 1px solid white;
+
+}
